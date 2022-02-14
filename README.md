@@ -11,6 +11,11 @@ que querramos instalar.
 
 Para poder subir al repositorio, debemos saber los siguientes puntos, para un perfecto orden en la recolección de datos:
 
+### En principio comprender que la ayuda en este repositorio es muy importante para toda la comunidad, y debemos poner los datos más reales posibles.
+### Tenemos un lugar en donde podemos poner una descripción corta en un archivo.csv -> acá debemos hacer un resumen, si hubo alguna complicación en la instalación
+o si por ejemplo hubo alguna complicación luego de la instalación.
+
+
 
 
 
